@@ -1,0 +1,6 @@
+{
+  "appId": "io.ionic.starter",
+  "appName": "ConversorDeDivisas",
+  "webDir": "dist",
+  "bundledWebRuntime": false
+}
